@@ -1,4 +1,4 @@
-# Python API Homework - What's the Weather Like?
+# Unit 6 | Assignment - What's the Weather Like?
 
 ## Background
 
@@ -9,18 +9,6 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 But, if pressed, how would you **prove** it?
 
 ![Equator](Images/equatorsign.png)
-
-### Before You Begin
-
-1. Create a new repository for this project called `python-api-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Python API challenge. Use a folder name to correspond to the challenge: **WeatherPy**.
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
 
 ## WeatherPy
 
@@ -42,7 +30,6 @@ Your final notebook must:
 
 As final considerations:
 
-* Create a new GitHub repository for this project called `API-Challenge` (note the kebab-case). **Do not add to an existing repo**
 * You must complete your analysis using a Jupyter notebook.
 * You must use the Matplotlib or Pandas plotting libraries.
 * You must include a written description of three observable trends based on the data.
@@ -50,8 +37,6 @@ As final considerations:
 * See [Example Solution](WeatherPy_Example.pdf) for a reference on expected format.
 
 ## Hints and Considerations
-
-* The city data is generated based on random coordinates; as such, your outputs will not be an exact match to the provided starter notebook.
 
 * You may want to start this assignment by refreshing yourself on the [geographic coordinate system](http://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/about-geographic-coordinate-systems.htm).
 
@@ -65,6 +50,6 @@ As final considerations:
 
 * Lastly, remember -- this is a challenging activity. Push yourself! If you complete this task, then you can safely say that you've gained a strong mastery of the core foundations of data analytics and it will only go better from here. Good luck!
 
-### Copyright
+## Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Data Boot Camp © 2018. All Rights Reserved.
